@@ -1,0 +1,14 @@
+* {
+  background: linear-gradient(141deg, #d35100 25%, #f07900 40%, #f87e45 55%);
+}
+body {
+  text-align: center;
+  background: linear-gradient(141deg, #d35100 25%, #f07900 40%, #f87e45 55%);
+  color: #555;
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 64px;
+  padding-top: 5vh;
+  height: 100vh;
+  overflow: hidden;
+}
